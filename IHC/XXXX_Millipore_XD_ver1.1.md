@@ -1,7 +1,7 @@
 # ChAT (Millipore) immunostaining with Fluoro Nissl counter
 (Floating) XD
 
-### Animals
+## Animals
 1. If needed, transduce some reporter proteins (eg. tdTomato) in the rat brain via Cre-lox system or virus vector.
 Perfusion, Agarose-embedding, Sectioning
 2. Transcardially perfuse with saline followed by 4% paraformaldehyde and 0.2% picric acid with 0.1 M phosphate buffer (pH 7.2–7.3). Postfix overnight with the same fixative.
